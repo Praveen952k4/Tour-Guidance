@@ -1,0 +1,23 @@
+.praveen{
+    height:75vh;
+}
+.main-heading{
+    color:#ffff66;
+    text-align:center;
+    font-family: "Roboto";
+}
+.img-img{
+    width:50vh;
+    height:50vh;
+    padding:16px;
+}
+.logo-logo{
+    height:60px;
+    width:190px;
+}
+.vetri{
+    background-image:linear-gradient(#80d4ff,#cccccc);
+}
+.bg-container{
+    background-image:url("photo/bg.jpeg");
+}
